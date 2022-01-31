@@ -4,9 +4,12 @@
 This script is written to get info about students rating in
 University.
 
-### Rights and policies
-In means of reserved rights and policies, all
-links, login data, etc. is removed.
+### Usage, rights and policies
+This script could not be used by other people because the 
+login data and required urls are removed from constants within
+the code. It is done in means of University's rights and
+policies to not share the students information.
+The script is written for local purposes.
 
 ### Functionality
 Application enables user to:
