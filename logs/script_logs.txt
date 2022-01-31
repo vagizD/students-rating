@@ -1,0 +1,20 @@
+2022-01-31 13:20:25,511 INFO     [app.py: line 24] Starting application.
+2022-01-31 13:20:33,390 INFO     [app.py: line 42] Starting script.
+2022-01-31 13:20:36,364 INFO     [script.py: line 38] Navigating to https:///
+2022-01-31 13:20:39,789 INFO     [sign_in_button_page.py: line 21] Clicking on sign in button.
+2022-01-31 13:20:44,589 INFO     [login_page.py: line 41] Typing username in.
+2022-01-31 13:20:44,991 INFO     [login_page.py: line 43] Typing password in.
+2022-01-31 13:20:45,311 INFO     [login_page.py: line 45] Clicking login button.
+2022-01-31 13:20:48,065 INFO     [LMS_home_page.py: line 28] Clicking on gradebook button.
+2022-01-31 13:20:50,192 INFO     [rating_page.py: line 21] Clicking on rating button.
+2022-01-31 13:20:50,680 INFO     [students.py: line 20] Using bs4 instead of Selenium.
+2022-01-31 13:20:50,826 INFO     [script.py: line 54] Shutting <selenium.webdriver.chrome.webdriver.WebDriver (session="f2044b6227c15abb9203930d234c8aa9")> down.
+2022-01-31 13:20:50,898 INFO     [script.py: line 56] Returning list of students.
+2022-01-31 13:20:50,903 INFO     [students.py: line 27] Creating list of students of length: 246.
+2022-01-31 13:20:50,926 INFO     [app.py: line 48] Script runtime: 17.535 seconds.
+2022-01-31 13:20:50,926 INFO     [retrieve.py: line 12] Retrieving average grade stats.
+2022-01-31 13:21:04,609 INFO     [retrieve.py: line 23] Retrieving minimal grade stats.
+2022-01-31 13:21:11,658 INFO     [retrieve.py: line 34] Retrieving credits after normalization stats.
+2022-01-31 13:21:33,065 INFO     [save.py: line 66] Saved to json file: students_info/students.json.
+2022-01-31 13:21:38,877 INFO     [visualize.py: line 10] Plotting average grade distribution.
+2022-01-31 13:21:44,413 INFO     [app.py: line 53] Closing application.
